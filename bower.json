@@ -1,0 +1,41 @@
+{
+  "name": "queue-calculator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ttrahan/queue-calculator",
+  "authors": [
+    "Tom Trahan <tom.trahan@gmail.com>"
+  ],
+  "description": "Calculator for queueing models",
+  "keywords": [
+    "mean-seed",
+    "javascript",
+    "angular",
+    "node",
+    "myproject",
+    "app"
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+    "angular-animate": "1.4.7",
+    "angular-sanitize": "1.4.7",
+    "angular-touch": "1.4.7",
+    "angular-route": "1.4.7",
+    "angular-cookies": "1.4.7",
+	"angular-mocks": "1.4.7",
+    "lesshat": "latest",
+    "font-awesome": "latest",
+    "less-flexbox": "latest",
+    "momentjs": "latest",
+    "angular-string": "latest",
+    "angular-array": "latest",
+    "angular-forminput": "latest",
+    "angular-socket-io": "latest"
+  },
+  "license": "MIT",
+  "resolutions": {
+    "angular": "1.4.7",
+    "angular-animate": "1.4.7",
+    "angular-sanitize": "1.4.7",
+    "angular-touch": "1.4.7"
+  }
+}

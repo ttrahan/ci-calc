@@ -1,0 +1,11 @@
+{
+    "name": "queue-calculator",
+    "description": "Calculator for queueing models",
+    "version": "0.0.0",
+    "url": "https://github.com/ttrahan/queue-calculator",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
